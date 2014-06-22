@@ -3,6 +3,9 @@ class PagesController < ApplicationController
   end
 
 
-def home
+  def about
+  end
+
+  def team
   end
 end
